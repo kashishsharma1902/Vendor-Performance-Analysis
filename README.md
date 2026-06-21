@@ -1,7 +1,5 @@
 # Vendor-Performance-Analysis
 
-# Vendor Performance Analysis Dashboard
-
 ## Project Overview
 This project analyzes vendor performance by evaluating sales, purchases, profitability, inventory, and operational efficiency. The goal is to identify top-performing vendors, optimize procurement decisions, and uncover insights that can improve business performance.
 
